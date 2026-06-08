@@ -202,7 +202,7 @@ Para subir o projeto no Render (ou plataformas semelhantes):
 
 ## 👨‍💻 Autor
 
-* **Bruno Barretto** - [LinkedIn](https://www.linkedin.com/in/bruno-barretto/) | [GitHub](https://github.com/BrunoBarretto)
+* **Bruno Barretto** - [LinkedIn](https://www.linkedin.com/in/brunobarretto/) | [GitHub](https://github.com/Barrett0)
 
 ---
 ⭐ Deixe uma estrela se esse projeto foi útil!
